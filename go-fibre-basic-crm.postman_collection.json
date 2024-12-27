@@ -1,0 +1,42 @@
+{
+	"info": {
+		"_postman_id": "a669b7bb-9e8c-4c63-9cc0-cc1d92ceae6b",
+		"name": "go-fibre-basic-crm",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "32624984"
+	},
+	"item": [
+		{
+			"name": "create lead",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "get all leads",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "get a lead",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "delete a lead",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
